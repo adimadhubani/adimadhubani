@@ -1,9 +1,9 @@
 # Hi there, I'm Aditya Kumar 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yourusername/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-kumar-989ba2294/)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/yourusername/)
 [![CodeChef](https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/yourusername)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adaryadhav2489@gmail.com)
 
 ## 🚀 About Me
 
@@ -44,17 +44,17 @@ I'm a passionate 2nd-year Computer Science student at **Indian Institute of Info
 
 ## 📊 GitHub Stats
 
-![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Aditya's GitHub stats](https://github-readme-stats.vercel.app/api?username=adimadhubani&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adimadhubani&layout=compact&theme=radical)](https://github.com/adimadhubani/github-readme-stats)
 
 ## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=yourusername&theme=onedark&no-frame=true&row=1)
+![trophy](https://github-profile-trophy.vercel.app/?username=adimadhubani&theme=onedark&no-frame=true&row=1)
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=yourusername&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=adimadhubani&theme=radical)
 
 ## 🎯 Currently Focusing On
 
@@ -66,9 +66,9 @@ I'm a passionate 2nd-year Computer Science student at **Indian Institute of Info
 ## 📫 How to Reach Me
 
 - Email: youremail@gmail.com
-- LinkedIn: [Aditya Kumar](https://www.linkedin.com/in/yourusername/)
+- LinkedIn: [Aditya Kumar](https://www.linkedin.com/in/aditya-kumar-989ba2294/)
 - Twitter: [@yourhandle](https://twitter.com/yourhandle)
 
 ---
 
-⭐️ From [Aditya Kumar](https://github.com/yourusername)
+⭐️ From [Aditya Kumar](https://github.com/adimadhubani)

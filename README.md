@@ -48,9 +48,7 @@ I'm a passionate 2nd-year Computer Science student at **Indian Institute of Info
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adimadhubani&layout=compact&theme=radical)](https://github.com/adimadhubani/github-readme-stats)
 
-## 🏆 GitHub Trophies
 
-![trophy](https://github-profile-trophy.vercel.app/?username=adimadhubani&theme=onedark&no-frame=true&row=1)
 
 
 ## 🎯 Currently Focusing On
